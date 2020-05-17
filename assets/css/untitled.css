@@ -1,0 +1,10 @@
+.main-gradient-bg {
+  background-color: #1d1e79;
+  background-image: linear-gradient(180deg,#50009c 10%,#1d1e79);
+  background-size: cover;
+}
+
+#social {
+  color: red;
+}
+
